@@ -2,85 +2,85 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Large Language Models | Rui Xu&#39;s Homepage</title>
-    <link>https://desmondrui.github.io/tags/large-language-models/</link>
-      <atom:link href="https://desmondrui.github.io/tags/large-language-models/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/large-language-models/</link>
+      <atom:link href="http://localhost:1313/tags/large-language-models/index.xml" rel="self" type="application/rss+xml" />
     <description>Large Language Models</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 13 Feb 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://desmondrui.github.io/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>Large Language Models</title>
-      <link>https://desmondrui.github.io/tags/large-language-models/</link>
+      <link>http://localhost:1313/tags/large-language-models/</link>
     </image>
     
     <item>
       <title>CoSER: Coordinating LLM-Based Persona Simulation of Established Roles</title>
-      <link>https://desmondrui.github.io/publication/coser-2025/</link>
+      <link>http://localhost:1313/publication/coser-2025/</link>
       <pubDate>Thu, 13 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://desmondrui.github.io/publication/coser-2025/</guid>
+      <guid>http://localhost:1313/publication/coser-2025/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SCP-116K: A High-Quality Problem-Solution Dataset and a Generalized Pipeline for Automated Extraction in the Higher Education Science Domain</title>
-      <link>https://desmondrui.github.io/publication/scp-116k-2025/</link>
+      <link>http://localhost:1313/publication/scp-116k-2025/</link>
       <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://desmondrui.github.io/publication/scp-116k-2025/</guid>
+      <guid>http://localhost:1313/publication/scp-116k-2025/</guid>
       <description></description>
     </item>
     
     <item>
       <title>InCharacter: Evaluating Personality Fidelity in Role-Playing Agents through Psychological Interviews</title>
-      <link>https://desmondrui.github.io/publication/incharacter-2024/</link>
+      <link>http://localhost:1313/publication/incharacter-2024/</link>
       <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://desmondrui.github.io/publication/incharacter-2024/</guid>
+      <guid>http://localhost:1313/publication/incharacter-2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mindecho: Role-playing language agents for key opinion leaders</title>
-      <link>https://desmondrui.github.io/publication/mindecho-2024/</link>
+      <link>http://localhost:1313/publication/mindecho-2024/</link>
       <pubDate>Sun, 07 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://desmondrui.github.io/publication/mindecho-2024/</guid>
+      <guid>http://localhost:1313/publication/mindecho-2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Capturing minds, not just words: Enhancing role-playing language models with personality-indicative data</title>
-      <link>https://desmondrui.github.io/publication/capturing-minds-2024/</link>
+      <link>http://localhost:1313/publication/capturing-minds-2024/</link>
       <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://desmondrui.github.io/publication/capturing-minds-2024/</guid>
+      <guid>http://localhost:1313/publication/capturing-minds-2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>From Persona to Personalization: A Survey on Role-Playing Language Agents</title>
-      <link>https://desmondrui.github.io/publication/persona-survey-2024/</link>
+      <link>http://localhost:1313/publication/persona-survey-2024/</link>
       <pubDate>Sun, 28 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://desmondrui.github.io/publication/persona-survey-2024/</guid>
+      <guid>http://localhost:1313/publication/persona-survey-2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Evaluating Character Understanding of Large Language Models via Character Profiling from Fictional Works</title>
-      <link>https://desmondrui.github.io/publication/character-profiling-2024/</link>
+      <link>http://localhost:1313/publication/character-profiling-2024/</link>
       <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://desmondrui.github.io/publication/character-profiling-2024/</guid>
+      <guid>http://localhost:1313/publication/character-profiling-2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Surveyagent: A conversational system for personalized and efficient research survey</title>
-      <link>https://desmondrui.github.io/publication/surveyagent-2024/</link>
+      <link>http://localhost:1313/publication/surveyagent-2024/</link>
       <pubDate>Tue, 09 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://desmondrui.github.io/publication/surveyagent-2024/</guid>
+      <guid>http://localhost:1313/publication/surveyagent-2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Character is Destiny: Can Large Language Models Simulate Persona-Driven Decisions in Role-Playing?</title>
-      <link>https://desmondrui.github.io/publication/character-destiny-2024/</link>
+      <link>http://localhost:1313/publication/character-destiny-2024/</link>
       <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://desmondrui.github.io/publication/character-destiny-2024/</guid>
+      <guid>http://localhost:1313/publication/character-destiny-2024/</guid>
       <description>&lt;p&gt;大型语言模型能否替代人类做出重要决策？最近的研究揭示了LLMs扮演指定角色的潜力，模仿他们的知识和语言习惯。然而，模仿性决策需要对角色有更细微的理解。&lt;/p&gt;
 &lt;p&gt;在本文中，我们对LLMs在角色驱动决策方面的能力进行了基准测试。具体来说，我们研究了LLMs是否能够在提供高质量小说中的前序故事的情况下预测角色的决策。利用文学专家撰写的角色分析，我们构建了一个数据集LIFECHOICE，包含395本书中1,401个角色决策点。&lt;/p&gt;
 &lt;p&gt;然后，我们在LIFECHOICE上进行了全面的实验，使用各种LLMs和LLM角色扮演方法。结果表明，最先进的LLMs在这项任务中表现出有希望的能力，但仍有很大的改进空间。&lt;/p&gt;
@@ -90,9 +90,9 @@
     
     <item>
       <title>Xiezhi: An Ever-Updating Benchmark for Holistic Domain Knowledge Evaluation</title>
-      <link>https://desmondrui.github.io/publication/xiezhi-2024/</link>
+      <link>http://localhost:1313/publication/xiezhi-2024/</link>
       <pubDate>Sun, 24 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://desmondrui.github.io/publication/xiezhi-2024/</guid>
+      <guid>http://localhost:1313/publication/xiezhi-2024/</guid>
       <description></description>
     </item>
     

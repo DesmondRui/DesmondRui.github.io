@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Scientific Reasoning | Rui Xu&#39;s Homepage</title>
-    <link>https://desmondrui.github.io/tags/scientific-reasoning/</link>
-      <atom:link href="https://desmondrui.github.io/tags/scientific-reasoning/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/scientific-reasoning/</link>
+      <atom:link href="http://localhost:1313/tags/scientific-reasoning/index.xml" rel="self" type="application/rss+xml" />
     <description>Scientific Reasoning</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 26 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://desmondrui.github.io/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>Scientific Reasoning</title>
-      <link>https://desmondrui.github.io/tags/scientific-reasoning/</link>
+      <link>http://localhost:1313/tags/scientific-reasoning/</link>
     </image>
     
     <item>
       <title>SCP-116K: A High-Quality Problem-Solution Dataset and a Generalized Pipeline for Automated Extraction in the Higher Education Science Domain</title>
-      <link>https://desmondrui.github.io/publication/scp-116k-2025/</link>
+      <link>http://localhost:1313/publication/scp-116k-2025/</link>
       <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://desmondrui.github.io/publication/scp-116k-2025/</guid>
+      <guid>http://localhost:1313/publication/scp-116k-2025/</guid>
       <description></description>
     </item>
     

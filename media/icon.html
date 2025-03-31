@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Icon Generator</title>
+    <style>
+        canvas {
+            background: transparent;
+        }
+    </style>
+</head>
+<body>
+    <canvas id="canvas" width="512" height="512"></canvas>
+    <script>
+        const canvas = document.getElementById('canvas');
+        const ctx = canvas.getContext('2d');
+        ctx.textAlign = 'center';
+        ctx.textBaseline = 'middle';
+        ctx.font = '400px Arial';
+        ctx.fillText('🎃', canvas.width/2, canvas.height/2);
+    </script>
+</body>
+</html> 

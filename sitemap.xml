@@ -2,319 +2,319 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://desmondrui.github.io/event/example/</loc>
+    <loc>http://localhost:1313/event/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://desmondrui.github.io/event/</loc>
+    <loc>http://localhost:1313/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://desmondrui.github.io/tags/character-simulation/</loc>
+    <loc>http://localhost:1313/tags/character-simulation/</loc>
     <lastmod>2025-02-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://desmondrui.github.io/publication/coser-2025/</loc>
+    <loc>http://localhost:1313/publication/coser-2025/</loc>
     <lastmod>2025-02-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://desmondrui.github.io/tags/dataset/</loc>
+    <loc>http://localhost:1313/tags/dataset/</loc>
     <lastmod>2025-02-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://desmondrui.github.io/tags/large-language-models/</loc>
+    <loc>http://localhost:1313/tags/large-language-models/</loc>
     <lastmod>2025-02-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://desmondrui.github.io/tags/persona/</loc>
+    <loc>http://localhost:1313/tags/persona/</loc>
     <lastmod>2025-02-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://desmondrui.github.io/publication_types/preprint/</loc>
+    <loc>http://localhost:1313/publication_types/preprint/</loc>
     <lastmod>2025-02-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://desmondrui.github.io/publication_types/</loc>
+    <loc>http://localhost:1313/publication_types/</loc>
     <lastmod>2025-02-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://desmondrui.github.io/publication/</loc>
+    <loc>http://localhost:1313/publication/</loc>
     <lastmod>2025-02-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://desmondrui.github.io/tags/role-playing-language-agents/</loc>
+    <loc>http://localhost:1313/tags/role-playing-language-agents/</loc>
     <lastmod>2025-02-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://desmondrui.github.io/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-02-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://desmondrui.github.io/tags/higher-education/</loc>
+    <loc>http://localhost:1313/tags/higher-education/</loc>
     <lastmod>2025-01-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://desmondrui.github.io/tags/scientific-reasoning/</loc>
+    <loc>http://localhost:1313/tags/scientific-reasoning/</loc>
     <lastmod>2025-01-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://desmondrui.github.io/publication/scp-116k-2025/</loc>
+    <loc>http://localhost:1313/publication/scp-116k-2025/</loc>
     <lastmod>2025-01-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://desmondrui.github.io/tags/stem/</loc>
+    <loc>http://localhost:1313/tags/stem/</loc>
     <lastmod>2025-01-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://desmondrui.github.io/publication/incharacter-2024/</loc>
+    <loc>http://localhost:1313/publication/incharacter-2024/</loc>
     <lastmod>2024-08-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://desmondrui.github.io/publication_types/paper-conference/</loc>
+    <loc>http://localhost:1313/publication_types/paper-conference/</loc>
     <lastmod>2024-08-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://desmondrui.github.io/tags/personality-evaluation/</loc>
+    <loc>http://localhost:1313/tags/personality-evaluation/</loc>
     <lastmod>2024-08-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://desmondrui.github.io/tags/psychological-interviews/</loc>
+    <loc>http://localhost:1313/tags/psychological-interviews/</loc>
     <lastmod>2024-08-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://desmondrui.github.io/tags/role-playing-agents/</loc>
+    <loc>http://localhost:1313/tags/role-playing-agents/</loc>
     <lastmod>2024-08-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://desmondrui.github.io/tags/conversational-ai/</loc>
+    <loc>http://localhost:1313/tags/conversational-ai/</loc>
     <lastmod>2024-07-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://desmondrui.github.io/tags/key-opinion-leaders/</loc>
+    <loc>http://localhost:1313/tags/key-opinion-leaders/</loc>
     <lastmod>2024-07-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://desmondrui.github.io/publication/mindecho-2024/</loc>
+    <loc>http://localhost:1313/publication/mindecho-2024/</loc>
     <lastmod>2024-07-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://desmondrui.github.io/publication/capturing-minds-2024/</loc>
+    <loc>http://localhost:1313/publication/capturing-minds-2024/</loc>
     <lastmod>2024-06-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://desmondrui.github.io/tags/character-modeling/</loc>
+    <loc>http://localhost:1313/tags/character-modeling/</loc>
     <lastmod>2024-06-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://desmondrui.github.io/tags/personality/</loc>
+    <loc>http://localhost:1313/tags/personality/</loc>
     <lastmod>2024-06-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://desmondrui.github.io/publication/persona-survey-2024/</loc>
+    <loc>http://localhost:1313/publication/persona-survey-2024/</loc>
     <lastmod>2024-04-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://desmondrui.github.io/tags/personalization/</loc>
+    <loc>http://localhost:1313/tags/personalization/</loc>
     <lastmod>2024-04-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://desmondrui.github.io/tags/survey/</loc>
+    <loc>http://localhost:1313/tags/survey/</loc>
     <lastmod>2024-04-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://desmondrui.github.io/tags/character-profiling/</loc>
+    <loc>http://localhost:1313/tags/character-profiling/</loc>
     <lastmod>2024-04-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://desmondrui.github.io/publication/character-profiling-2024/</loc>
+    <loc>http://localhost:1313/publication/character-profiling-2024/</loc>
     <lastmod>2024-04-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://desmondrui.github.io/tags/fictional-characters/</loc>
+    <loc>http://localhost:1313/tags/fictional-characters/</loc>
     <lastmod>2024-04-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://desmondrui.github.io/tags/conversational-system/</loc>
+    <loc>http://localhost:1313/tags/conversational-system/</loc>
     <lastmod>2024-04-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://desmondrui.github.io/tags/literature-review/</loc>
+    <loc>http://localhost:1313/tags/literature-review/</loc>
     <lastmod>2024-04-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://desmondrui.github.io/tags/research-survey/</loc>
+    <loc>http://localhost:1313/tags/research-survey/</loc>
     <lastmod>2024-04-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://desmondrui.github.io/publication/surveyagent-2024/</loc>
+    <loc>http://localhost:1313/publication/surveyagent-2024/</loc>
     <lastmod>2024-04-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://desmondrui.github.io/tags/character-analysis/</loc>
+    <loc>http://localhost:1313/tags/character-analysis/</loc>
     <lastmod>2024-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://desmondrui.github.io/publication/character-destiny-2024/</loc>
+    <loc>http://localhost:1313/publication/character-destiny-2024/</loc>
     <lastmod>2024-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://desmondrui.github.io/tags/persona-driven-decisions/</loc>
+    <loc>http://localhost:1313/tags/persona-driven-decisions/</loc>
     <lastmod>2024-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://desmondrui.github.io/tags/role-playing/</loc>
+    <loc>http://localhost:1313/tags/role-playing/</loc>
     <lastmod>2024-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://desmondrui.github.io/teaching/</loc>
+    <loc>http://localhost:1313/teaching/</loc>
     <lastmod>2024-03-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://desmondrui.github.io/teaching/js/</loc>
+    <loc>http://localhost:1313/teaching/js/</loc>
     <lastmod>2024-03-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://desmondrui.github.io/tags/benchmark/</loc>
+    <loc>http://localhost:1313/tags/benchmark/</loc>
     <lastmod>2024-03-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://desmondrui.github.io/tags/domain-knowledge/</loc>
+    <loc>http://localhost:1313/tags/domain-knowledge/</loc>
     <lastmod>2024-03-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://desmondrui.github.io/tags/evaluation/</loc>
+    <loc>http://localhost:1313/tags/evaluation/</loc>
     <lastmod>2024-03-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://desmondrui.github.io/publication/xiezhi-2024/</loc>
+    <loc>http://localhost:1313/publication/xiezhi-2024/</loc>
     <lastmod>2024-03-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://desmondrui.github.io/post/get-started/</loc>
+    <loc>http://localhost:1313/post/get-started/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://desmondrui.github.io/tags/academic/</loc>
+    <loc>http://localhost:1313/tags/academic/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://desmondrui.github.io/post/</loc>
+    <loc>http://localhost:1313/post/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://desmondrui.github.io/tags/hugo-blox/</loc>
+    <loc>http://localhost:1313/tags/hugo-blox/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://desmondrui.github.io/tags/markdown/</loc>
+    <loc>http://localhost:1313/tags/markdown/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://desmondrui.github.io/tags/hugo/</loc>
+    <loc>http://localhost:1313/tags/hugo/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://desmondrui.github.io/project/pandas/</loc>
+    <loc>http://localhost:1313/project/pandas/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://desmondrui.github.io/project/</loc>
+    <loc>http://localhost:1313/project/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://desmondrui.github.io/project/pytorch/</loc>
+    <loc>http://localhost:1313/project/pytorch/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://desmondrui.github.io/project/scikit/</loc>
+    <loc>http://localhost:1313/project/scikit/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://desmondrui.github.io/tags/second-brain/</loc>
+    <loc>http://localhost:1313/tags/second-brain/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://desmondrui.github.io/tags/wowchemy/</loc>
+    <loc>http://localhost:1313/tags/wowchemy/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://desmondrui.github.io/post/second-brain/</loc>
+    <loc>http://localhost:1313/post/second-brain/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://desmondrui.github.io/post/data-visualization/</loc>
+    <loc>http://localhost:1313/post/data-visualization/</loc>
     <lastmod>2023-10-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://desmondrui.github.io/post/teach-courses/</loc>
+    <loc>http://localhost:1313/post/teach-courses/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://desmondrui.github.io/experience/</loc>
+    <loc>http://localhost:1313/experience/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://desmondrui.github.io/tags/hugo-blox-builder/</loc>
+    <loc>http://localhost:1313/tags/hugo-blox-builder/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://desmondrui.github.io/tags/javascript/</loc>
+    <loc>http://localhost:1313/tags/javascript/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://desmondrui.github.io/projects/js/</loc>
+    <loc>http://localhost:1313/projects/js/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://desmondrui.github.io/projects/</loc>
+    <loc>http://localhost:1313/projects/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://desmondrui.github.io/post/project-management/</loc>
+    <loc>http://localhost:1313/post/project-management/</loc>
     <lastmod>2023-10-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://desmondrui.github.io/tags/constrained-editing/</loc>
+    <loc>http://localhost:1313/tags/constrained-editing/</loc>
     <lastmod>2022-11-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://desmondrui.github.io/publication/converge-truth-2022/</loc>
+    <loc>http://localhost:1313/publication/converge-truth-2022/</loc>
     <lastmod>2022-11-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://desmondrui.github.io/tags/factual-error-correction/</loc>
+    <loc>http://localhost:1313/tags/factual-error-correction/</loc>
     <lastmod>2022-11-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://desmondrui.github.io/tags/natural-language-processing/</loc>
+    <loc>http://localhost:1313/tags/natural-language-processing/</loc>
     <lastmod>2022-11-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://desmondrui.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://desmondrui.github.io/tags/lexical-constraints/</loc>
+    <loc>http://localhost:1313/tags/lexical-constraints/</loc>
     <lastmod>2022-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://desmondrui.github.io/publication/neighbors-2022/</loc>
+    <loc>http://localhost:1313/publication/neighbors-2022/</loc>
     <lastmod>2022-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://desmondrui.github.io/tags/neural-machine-translation/</loc>
+    <loc>http://localhost:1313/tags/neural-machine-translation/</loc>
     <lastmod>2022-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://desmondrui.github.io/tags/non-autoregressive-translation/</loc>
+    <loc>http://localhost:1313/tags/non-autoregressive-translation/</loc>
     <lastmod>2022-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://desmondrui.github.io/tags/analogical-reasoning/</loc>
+    <loc>http://localhost:1313/tags/analogical-reasoning/</loc>
     <lastmod>2022-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://desmondrui.github.io/publication/e-kar-2022/</loc>
+    <loc>http://localhost:1313/publication/e-kar-2022/</loc>
     <lastmod>2022-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>

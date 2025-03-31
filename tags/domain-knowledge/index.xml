@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Domain Knowledge | Rui Xu&#39;s Homepage</title>
-    <link>https://desmondrui.github.io/tags/domain-knowledge/</link>
-      <atom:link href="https://desmondrui.github.io/tags/domain-knowledge/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/domain-knowledge/</link>
+      <atom:link href="http://localhost:1313/tags/domain-knowledge/index.xml" rel="self" type="application/rss+xml" />
     <description>Domain Knowledge</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 24 Mar 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://desmondrui.github.io/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>Domain Knowledge</title>
-      <link>https://desmondrui.github.io/tags/domain-knowledge/</link>
+      <link>http://localhost:1313/tags/domain-knowledge/</link>
     </image>
     
     <item>
       <title>Xiezhi: An Ever-Updating Benchmark for Holistic Domain Knowledge Evaluation</title>
-      <link>https://desmondrui.github.io/publication/xiezhi-2024/</link>
+      <link>http://localhost:1313/publication/xiezhi-2024/</link>
       <pubDate>Sun, 24 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://desmondrui.github.io/publication/xiezhi-2024/</guid>
+      <guid>http://localhost:1313/publication/xiezhi-2024/</guid>
       <description></description>
     </item>
     

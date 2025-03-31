@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Character Simulation | Rui Xu&#39;s Homepage</title>
-    <link>https://desmondrui.github.io/tags/character-simulation/</link>
-      <atom:link href="https://desmondrui.github.io/tags/character-simulation/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/character-simulation/</link>
+      <atom:link href="http://localhost:1313/tags/character-simulation/index.xml" rel="self" type="application/rss+xml" />
     <description>Character Simulation</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 13 Feb 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://desmondrui.github.io/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>Character Simulation</title>
-      <link>https://desmondrui.github.io/tags/character-simulation/</link>
+      <link>http://localhost:1313/tags/character-simulation/</link>
     </image>
     
     <item>
       <title>CoSER: Coordinating LLM-Based Persona Simulation of Established Roles</title>
-      <link>https://desmondrui.github.io/publication/coser-2025/</link>
+      <link>http://localhost:1313/publication/coser-2025/</link>
       <pubDate>Thu, 13 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://desmondrui.github.io/publication/coser-2025/</guid>
+      <guid>http://localhost:1313/publication/coser-2025/</guid>
       <description></description>
     </item>
     

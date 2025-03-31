@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Neural Machine Translation | Rui Xu&#39;s Homepage</title>
-    <link>https://desmondrui.github.io/tags/neural-machine-translation/</link>
-      <atom:link href="https://desmondrui.github.io/tags/neural-machine-translation/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/neural-machine-translation/</link>
+      <atom:link href="http://localhost:1313/tags/neural-machine-translation/index.xml" rel="self" type="application/rss+xml" />
     <description>Neural Machine Translation</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://desmondrui.github.io/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>Neural Machine Translation</title>
-      <link>https://desmondrui.github.io/tags/neural-machine-translation/</link>
+      <link>http://localhost:1313/tags/neural-machine-translation/</link>
     </image>
     
     <item>
       <title>Neighbors Are Not Strangers: Improving Non-Autoregressive Translation under Low-Frequency Lexical Constraints</title>
-      <link>https://desmondrui.github.io/publication/neighbors-2022/</link>
+      <link>http://localhost:1313/publication/neighbors-2022/</link>
       <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://desmondrui.github.io/publication/neighbors-2022/</guid>
+      <guid>http://localhost:1313/publication/neighbors-2022/</guid>
       <description></description>
     </item>
     

@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogs | Hugo Academic CV Theme</title>
-    <link>https://example.com/teaching/</link>
-      <atom:link href="https://example.com/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <title>Blogs | Rui Xu&#39;s Homepage</title>
+    <link>https://desmondrui.github.io/teaching/</link>
+      <atom:link href="https://desmondrui.github.io/teaching/index.xml" rel="self" type="application/rss+xml" />
     <description>Blogs</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 31 Mar 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu7729264130191091259.png</url>
+      <url>https://desmondrui.github.io/media/icon_hu7729264130191091259.png</url>
       <title>Blogs</title>
-      <link>https://example.com/teaching/</link>
+      <link>https://desmondrui.github.io/teaching/</link>
     </image>
     
     <item>
       <title>My First Blog</title>
-      <link>https://example.com/teaching/js/</link>
+      <link>https://desmondrui.github.io/teaching/js/</link>
       <pubDate>Sun, 31 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/teaching/js/</guid>
+      <guid>https://desmondrui.github.io/teaching/js/</guid>
       <description>&lt;p&gt;Welcome to my blog! Content coming soon&amp;hellip;&lt;/p&gt;
 &lt;!-- [Hugo Blox Builder](https://hugoblox.com) is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.
 

@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Persona-Driven Decisions | Hugo Academic CV Theme</title>
-    <link>https://example.com/tags/persona-driven-decisions/</link>
-      <atom:link href="https://example.com/tags/persona-driven-decisions/index.xml" rel="self" type="application/rss+xml" />
+    <title>Persona-Driven Decisions | Rui Xu&#39;s Homepage</title>
+    <link>https://desmondrui.github.io/tags/persona-driven-decisions/</link>
+      <atom:link href="https://desmondrui.github.io/tags/persona-driven-decisions/index.xml" rel="self" type="application/rss+xml" />
     <description>Persona-Driven Decisions</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu7729264130191091259.png</url>
+      <url>https://desmondrui.github.io/media/icon_hu7729264130191091259.png</url>
       <title>Persona-Driven Decisions</title>
-      <link>https://example.com/tags/persona-driven-decisions/</link>
+      <link>https://desmondrui.github.io/tags/persona-driven-decisions/</link>
     </image>
     
     <item>
       <title>Character is Destiny: Can Large Language Models Simulate Persona-Driven Decisions in Role-Playing?</title>
-      <link>https://example.com/publication/character-destiny-2024/</link>
+      <link>https://desmondrui.github.io/publication/character-destiny-2024/</link>
       <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/character-destiny-2024/</guid>
+      <guid>https://desmondrui.github.io/publication/character-destiny-2024/</guid>
       <description>&lt;p&gt;大型语言模型能否替代人类做出重要决策？最近的研究揭示了LLMs扮演指定角色的潜力，模仿他们的知识和语言习惯。然而，模仿性决策需要对角色有更细微的理解。&lt;/p&gt;
 &lt;p&gt;在本文中，我们对LLMs在角色驱动决策方面的能力进行了基准测试。具体来说，我们研究了LLMs是否能够在提供高质量小说中的前序故事的情况下预测角色的决策。利用文学专家撰写的角色分析，我们构建了一个数据集LIFECHOICE，包含395本书中1,401个角色决策点。&lt;/p&gt;
 &lt;p&gt;然后，我们在LIFECHOICE上进行了全面的实验，使用各种LLMs和LLM角色扮演方法。结果表明，最先进的LLMs在这项任务中表现出有希望的能力，但仍有很大的改进空间。&lt;/p&gt;

@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Benchmark | Hugo Academic CV Theme</title>
-    <link>https://example.com/tags/benchmark/</link>
-      <atom:link href="https://example.com/tags/benchmark/index.xml" rel="self" type="application/rss+xml" />
+    <title>Benchmark | Rui Xu&#39;s Homepage</title>
+    <link>https://desmondrui.github.io/tags/benchmark/</link>
+      <atom:link href="https://desmondrui.github.io/tags/benchmark/index.xml" rel="self" type="application/rss+xml" />
     <description>Benchmark</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 24 Mar 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu7729264130191091259.png</url>
+      <url>https://desmondrui.github.io/media/icon_hu7729264130191091259.png</url>
       <title>Benchmark</title>
-      <link>https://example.com/tags/benchmark/</link>
+      <link>https://desmondrui.github.io/tags/benchmark/</link>
     </image>
     
     <item>
       <title>Xiezhi: An Ever-Updating Benchmark for Holistic Domain Knowledge Evaluation</title>
-      <link>https://example.com/publication/xiezhi-2024/</link>
+      <link>https://desmondrui.github.io/publication/xiezhi-2024/</link>
       <pubDate>Sun, 24 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/xiezhi-2024/</guid>
+      <guid>https://desmondrui.github.io/publication/xiezhi-2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>E-KAR: A benchmark for rationalizing natural language analogical reasoning</title>
-      <link>https://example.com/publication/e-kar-2022/</link>
+      <link>https://desmondrui.github.io/publication/e-kar-2022/</link>
       <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/e-kar-2022/</guid>
+      <guid>https://desmondrui.github.io/publication/e-kar-2022/</guid>
       <description></description>
     </item>
     

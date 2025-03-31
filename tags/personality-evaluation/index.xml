@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Personality Evaluation | Hugo Academic CV Theme</title>
-    <link>https://example.com/tags/personality-evaluation/</link>
-      <atom:link href="https://example.com/tags/personality-evaluation/index.xml" rel="self" type="application/rss+xml" />
+    <title>Personality Evaluation | Rui Xu&#39;s Homepage</title>
+    <link>https://desmondrui.github.io/tags/personality-evaluation/</link>
+      <atom:link href="https://desmondrui.github.io/tags/personality-evaluation/index.xml" rel="self" type="application/rss+xml" />
     <description>Personality Evaluation</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu7729264130191091259.png</url>
+      <url>https://desmondrui.github.io/media/icon_hu7729264130191091259.png</url>
       <title>Personality Evaluation</title>
-      <link>https://example.com/tags/personality-evaluation/</link>
+      <link>https://desmondrui.github.io/tags/personality-evaluation/</link>
     </image>
     
     <item>
       <title>InCharacter: Evaluating Personality Fidelity in Role-Playing Agents through Psychological Interviews</title>
-      <link>https://example.com/publication/incharacter-2024/</link>
+      <link>https://desmondrui.github.io/publication/incharacter-2024/</link>
       <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/incharacter-2024/</guid>
+      <guid>https://desmondrui.github.io/publication/incharacter-2024/</guid>
       <description></description>
     </item>
     

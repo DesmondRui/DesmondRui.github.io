@@ -1,70 +1,70 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Paper-Conference | Hugo Academic CV Theme</title>
-    <link>https://example.com/publication_types/paper-conference/</link>
-      <atom:link href="https://example.com/publication_types/paper-conference/index.xml" rel="self" type="application/rss+xml" />
+    <title>Paper-Conference | Rui Xu&#39;s Homepage</title>
+    <link>https://desmondrui.github.io/publication_types/paper-conference/</link>
+      <atom:link href="https://desmondrui.github.io/publication_types/paper-conference/index.xml" rel="self" type="application/rss+xml" />
     <description>Paper-Conference</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu7729264130191091259.png</url>
+      <url>https://desmondrui.github.io/media/icon_hu7729264130191091259.png</url>
       <title>Paper-Conference</title>
-      <link>https://example.com/publication_types/paper-conference/</link>
+      <link>https://desmondrui.github.io/publication_types/paper-conference/</link>
     </image>
     
     <item>
       <title>InCharacter: Evaluating Personality Fidelity in Role-Playing Agents through Psychological Interviews</title>
-      <link>https://example.com/publication/incharacter-2024/</link>
+      <link>https://desmondrui.github.io/publication/incharacter-2024/</link>
       <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/incharacter-2024/</guid>
+      <guid>https://desmondrui.github.io/publication/incharacter-2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>From Persona to Personalization: A Survey on Role-Playing Language Agents</title>
-      <link>https://example.com/publication/persona-survey-2024/</link>
+      <link>https://desmondrui.github.io/publication/persona-survey-2024/</link>
       <pubDate>Sun, 28 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/persona-survey-2024/</guid>
+      <guid>https://desmondrui.github.io/publication/persona-survey-2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Evaluating Character Understanding of Large Language Models via Character Profiling from Fictional Works</title>
-      <link>https://example.com/publication/character-profiling-2024/</link>
+      <link>https://desmondrui.github.io/publication/character-profiling-2024/</link>
       <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/character-profiling-2024/</guid>
+      <guid>https://desmondrui.github.io/publication/character-profiling-2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Xiezhi: An Ever-Updating Benchmark for Holistic Domain Knowledge Evaluation</title>
-      <link>https://example.com/publication/xiezhi-2024/</link>
+      <link>https://desmondrui.github.io/publication/xiezhi-2024/</link>
       <pubDate>Sun, 24 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/xiezhi-2024/</guid>
+      <guid>https://desmondrui.github.io/publication/xiezhi-2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Converge to the Truth: Factual Error Correction via Iterative Constrained Editing</title>
-      <link>https://example.com/publication/converge-truth-2022/</link>
+      <link>https://desmondrui.github.io/publication/converge-truth-2022/</link>
       <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/converge-truth-2022/</guid>
+      <guid>https://desmondrui.github.io/publication/converge-truth-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Neighbors Are Not Strangers: Improving Non-Autoregressive Translation under Low-Frequency Lexical Constraints</title>
-      <link>https://example.com/publication/neighbors-2022/</link>
+      <link>https://desmondrui.github.io/publication/neighbors-2022/</link>
       <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/neighbors-2022/</guid>
+      <guid>https://desmondrui.github.io/publication/neighbors-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>E-KAR: A benchmark for rationalizing natural language analogical reasoning</title>
-      <link>https://example.com/publication/e-kar-2022/</link>
+      <link>https://desmondrui.github.io/publication/e-kar-2022/</link>
       <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/e-kar-2022/</guid>
+      <guid>https://desmondrui.github.io/publication/e-kar-2022/</guid>
       <description></description>
     </item>
     

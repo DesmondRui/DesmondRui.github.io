@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Personalization | Hugo Academic CV Theme</title>
+    <link>https://example.com/tags/personalization/</link>
+      <atom:link href="https://example.com/tags/personalization/index.xml" rel="self" type="application/rss+xml" />
+    <description>Personalization</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 28 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu7729264130191091259.png</url>
+      <title>Personalization</title>
+      <link>https://example.com/tags/personalization/</link>
+    </image>
+    
+    <item>
+      <title>From Persona to Personalization: A Survey on Role-Playing Language Agents</title>
+      <link>https://example.com/publication/persona-survey-2024/</link>
+      <pubDate>Sun, 28 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/persona-survey-2024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

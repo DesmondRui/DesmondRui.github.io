@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Role-Playing Agents | Hugo Academic CV Theme</title>
+    <link>https://example.com/tags/role-playing-agents/</link>
+      <atom:link href="https://example.com/tags/role-playing-agents/index.xml" rel="self" type="application/rss+xml" />
+    <description>Role-Playing Agents</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu7729264130191091259.png</url>
+      <title>Role-Playing Agents</title>
+      <link>https://example.com/tags/role-playing-agents/</link>
+    </image>
+    
+    <item>
+      <title>InCharacter: Evaluating Personality Fidelity in Role-Playing Agents through Psychological Interviews</title>
+      <link>https://example.com/publication/incharacter-2024/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/incharacter-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Capturing minds, not just words: Enhancing role-playing language models with personality-indicative data</title>
+      <link>https://example.com/publication/capturing-minds-2024/</link>
+      <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/capturing-minds-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating Character Understanding of Large Language Models via Character Profiling from Fictional Works</title>
+      <link>https://example.com/publication/character-profiling-2024/</link>
+      <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/character-profiling-2024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
